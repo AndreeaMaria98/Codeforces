@@ -1,0 +1,3 @@
+C:/Users/stoia/Desktop/programare/Probleme codef/1041A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/stoia/Desktop/programare/Probleme codef/1041A/cmake-build-debug/CMakeFiles/Probleme_codef.dir
+C:/Users/stoia/Desktop/programare/Probleme codef/1041A/cmake-build-debug/CMakeFiles/edit_cache.dir
